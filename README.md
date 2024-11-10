@@ -18,7 +18,7 @@ The current chatbot doesn't handle messages with single general symptoms well(i.
 <p align="center">
 Chatbot: <br/>
 
-<img src="https://github.com/AkashSivapalan/DiseaseAnalysisBE/blob/master/SS/MedicalChatbot.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<img src= "https://github.com/AkashSivapalan/DiseaseAnalysisBE/blob/main/SS/MedicalChatbot.JPG?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
  <br /> 
 
 
